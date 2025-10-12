@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+/* # is used for ids
+#p1{
+    color: red;
+}
+#p2{
+    color: orange;
+}
+#p3{
+    color: yellow;
+}
+#p4{
+    color: green;
+}*/
+
+/* . is used for classes */
+.odd{
+    color: red;
+}
+.even{
+    color: blue;
+}

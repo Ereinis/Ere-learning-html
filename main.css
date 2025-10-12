@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+}
+hr{
+    height: 2px;
+    border-radius: 5px;
+    border-color: black;
+    background-color: black;
+}
+h1{
+    color: rgba(255, 255, 255, 0.715);
+    font-family: 'Bubblegum Sans';font-size: 22px;
+}
