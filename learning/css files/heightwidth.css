@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+.container{
+    background-color: grey;
+    height: 100vh; /*vh is viewport height, it is measured in percentages*/
+}
+.box{
+    background-color: white;
+    border: 2px solid;
+    padding: 25px;
+    height: auto;
+    width: 50%;
+    float: left;
+    text-align: center;
+
+    min-height: 50%;
+}
